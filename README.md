@@ -1,19 +1,16 @@
-# LLM News Summarizer
+# Local LLM Chatbot
 
 ## 🚧 In Progress
-Building this during my LLM Training (DS-I Africa, Feb-Apr 2026)
+Building a privacy-focused chatbot that runs completely offline.
 
 ## 🎯 Goal
-Create an app that summarizes news articles using LLM APIs
+Create a chatbot using open-source models that never sends data to the cloud.
 
 ## 🛠️ Tech Stack
-- Python
+- Ollama
+- Llama 2 / Mistral
 - Streamlit
-- OpenAI API / Open-source LLMs
-- BeautifulSoup
+- LangChain (optional)
 
 ## 📅 Expected Completion
-March 2026
-
-## 👩‍💻 Author
-Felicia Khoza - MSc Candidate, UCT
+April 2026
